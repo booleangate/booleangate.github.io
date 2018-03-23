@@ -1,0 +1,6 @@
+[submodule "jslab"]
+	path = jslab
+	url = https://github.com/booleangate/jslab
+[submodule "model-generator"]
+	path = model-generator
+	url = https://github.com/booleangate/model-generator
