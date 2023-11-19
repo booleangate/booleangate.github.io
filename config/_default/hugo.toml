@@ -1,0 +1,4 @@
+baseURL = 'https://booleangate.github.io/'
+languageCode = 'en-us'
+title = 'Blog of Wonders'
+theme = 'blowfish'
