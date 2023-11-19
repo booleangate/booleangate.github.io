@@ -8,14 +8,14 @@ title = "Justin Johnson"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  # logo = "images/headshot.png"
+  # secondaryLogo = "images/headshot.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Justin Johnson"
-  image = "img/blowfish_logo.png"
+  image = "images/headshot.png"
   headline = "Staff Engineer @ Olo"
   bio = "I love to build APIs, mentor my peers, and use my privilege to sponsor those around me."
   links = [
