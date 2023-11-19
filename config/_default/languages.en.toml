@@ -1,0 +1,42 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Justin Johnson"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Justin Johnson"
+  image = "img/blowfish_logo.png"
+  headline = "Staff Engineer @ Olo"
+  bio = "I love to build APIs, mentor my peers, and use my privilege to sponsor those around me."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/justinrjohnson/" },
+    { github = "https://github.com/booleangate" },
+    { stack-overflow = "https://stackoverflow.com/users/126562/justin-johnson" },
+    { link = "https://olo.com/" }
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { codepen = "https://codepen.io/username" },
+#     { dev = "https://dev.to/username" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { hashnode = "https://username.hashnode.dev" },
+#     { instagram = "https://instagram.com/username" },
+#     { keybase = "https://keybase.io/username" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { medium = "https://medium.com/username" },
+#     { orcid = "https://orcid.org/userid" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { soundcloud = "https://soundcloud.com/username" },
+  ]
