@@ -16,13 +16,12 @@ title = "Justin Johnson"
 [author]
   name = "Justin Johnson"
   image = "images/headshot.png"
-  headline = "Staff Engineer @ Owner"
+  headline = "Engineering Leader"
   bio = "I love building APIs, mentoring, and sponsoring the next generation of engineers."
   links = [
     { linkedin = "https://www.linkedin.com/in/justinrjohnson/" },
     { github = "https://github.com/booleangate" },
-    { stack-overflow = "https://stackoverflow.com/users/126562/justin-johnson" },
-    { link = "https://owner.com/" }
+    { stack-overflow = "https://stackoverflow.com/users/126562/justin-johnson" }
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
