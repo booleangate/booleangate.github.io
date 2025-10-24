@@ -2,3 +2,11 @@
 	path = themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
+[submodule "jslab"]
+	path = static/jslab
+	url = git@github.com:booleangate/jslab.git
+	branch = main
+[submodule "model-generator"]
+	path = static/model-generator
+	url = git@github.com:booleangate/model-generator
+	branch = main
