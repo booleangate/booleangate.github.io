@@ -1,9 +1,9 @@
 [submodule "jslab"]
 	path = static/jslab
-	url = https://github.com/booleangate/jslab
+	url = git@github.com:booleangate/jslab.git
 [submodule "model-generator"]
 	path = static/model-generator
-	url = https://github.com/booleangate/model-generator
+	url = git@github.com:booleangate/model-generator
 [submodule "themes/blowfish"]
 	path = themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
