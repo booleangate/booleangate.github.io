@@ -16,12 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.120.2
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
           token: ${{ secrets.SUBMODULE_PAT }}
+          submodules: recursive
           fetch-depth: 0
 
       - name: Install Hugo CLI
@@ -47,6 +48,6 @@ jobs:
         run: |
           hugo \
             --ignoreCache \
-            --debug
+            --logLevel debug \
             --verbose \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
